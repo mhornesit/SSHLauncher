@@ -1,0 +1,9 @@
+{
+    "template_server":{
+        "terminal": "cmd",
+        "port": 22,
+        "ip": "0.0.0.0",
+        "user": "username",
+        "key": "c:/my.pem"
+    }  
+}
